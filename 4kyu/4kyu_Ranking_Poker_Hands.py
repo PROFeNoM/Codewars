@@ -406,9 +406,3 @@ class Card(object):
     @property
     def value(self):
         return Card.RANKS.index(self.rank)
-
-
-player = PokerHand('2H 2C 3S 3H 3D')
-opponent = PokerHand('KH KC 3S 3H 3D')
-a = player.compare_with(opponent)
-print(a)
