@@ -1,3 +1,7 @@
+# 1. Find largest index i such that str[i – 1] < str[i].
+# 2. Find largest index j such that j >= i and str[j] > str[i – 1].
+# 3. Swap str[j] and str[i – 1].
+# 4. Reverse the sub-array starting at str[i].
 def next_bigger(n):
     if sorted(str(n), reverse = True) == list(str(n)):
         return -1
