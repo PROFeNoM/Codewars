@@ -1,0 +1,23 @@
+import math
+def triangle(array):
+    a = list()
+    n = len(array)
+    n_factorial = math.factorial(n-1)
+    for i in array:
+	    if i == "R":
+		    a.append(0)
+	    elif i == "G":
+		    a.append(1)
+	    elif i == "B":
+		    a.append(2)
+    total = 0
+    for k in range(0, n):
+        total += -(n_factorial/(math.factorial(k)*math.factorial(n-1-k)))*a[k]
+    total *= (-1)**(n)
+    total %= 3
+    if total == 0:
+	    return "R"
+    elif total == 1:
+        return "G"
+    elif total == 2:
+        return "B"
