@@ -12,7 +12,7 @@ def triangle(array):
 		    a.append(2)
     total = 0
     for k in range(0, n):
-        total += -(n_factorial/(math.factorial(k)*math.factorial(n-1-k)))*a[k]
+        total += -(n_factorial//(math.factorial(k)*math.factorial(n-1-k)))*a[k]
     total *= (-1)**(n)
     total %= 3
     if total == 0:
