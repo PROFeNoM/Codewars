@@ -1,23 +1,18 @@
-import math
 def triangle(array):
-    a = list()
     n = len(array)
-    n_factorial = math.factorial(n-1)
-    for i in array:
-	    if i == "R":
-		    a.append(0)
-	    elif i == "G":
-		    a.append(1)
-	    elif i == "B":
-		    a.append(2)
-    total = 0
-    for k in range(0, n):
-        total += -(n_factorial//(math.factorial(k)*math.factorial(n-1-k)))*a[k]
-    total *= (-1)**(n)
-    total %= 3
-    if total == 0:
-	    return "R"
-    elif total == 1:
-        return "G"
-    elif total == 2:
-        return "B"
+    colors = {"R": 0, "G": 1, "B": 2}
+    digit = {0: "R", 1: "G", 2: "B"}
+    a = [colors.get(item, item) for item in list(array)]
+
+    # Generate nth the pascal's triangle row
+    def pascalRowFast(rowIndex):
+	    row=[0]*(rowIndex+1)
+	    row[0] = row[-1] = 1
+	    for i in range(0, rowIndex>>1):
+		    x = row[ i ] * (rowIndex - i) // (i + 1)
+
+		    row[ i + 1 ]= row[ rowIndex - 1 - i ] = x
+	    return row
+
+    total = sum([a*b for a, b in zip(pascalRowFast(n-1), a)])*(-1)**(n-1) %3
+    return digit[total]
