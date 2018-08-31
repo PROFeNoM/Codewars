@@ -1,6 +1,8 @@
+import itertools
 def isSolved(board):
-  # TODO: Check if the board is solved!
-    board = [i for row in board for i in row]
+    # TODO: Check if the board is solved!
+    board = list(itertools.chain(*board))
+    
     WAYS_TO_WIN = ((0, 1, 2),
                    (3, 4, 5),
                    (6, 7, 8),
