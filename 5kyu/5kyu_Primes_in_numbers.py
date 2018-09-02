@@ -13,8 +13,8 @@ def primeFactors(n):
         if not f in added:
             c = factors.count(f)
             if c == 1:
-                result += ("(" + str(f) + ")")
+                result += ("({})".format(f))
             else:
-                result += ("(" + str(f) + "**" + str(c) + ")")
+                result += ("({}**{})".format(f, c))
             added.append(f)   
     return result
