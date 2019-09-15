@@ -5,4 +5,5 @@ Python kata done on codewars.
 
 >Each kata on the site is set to a Kyu/Dan rank, based on its subject area and difficulty. The community collectively determines rank in the Beta Process. Every new Codewarrior (user) on Codewars starts being ranked as 8 Kyu.
 
-My codewars account : https://www.codewars.com/users/FeNoM
+[My codewars account](https://www.codewars.com/users/FeNoM)  
+![](https://www.codewars.com/users/FeNoM/badges/large)
