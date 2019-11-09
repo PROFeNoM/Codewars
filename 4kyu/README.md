@@ -10,6 +10,7 @@
 - [Decode the morse code advanced](https://www.codewars.com/kata/decode-the-morse-code-advanced)
 - [Differentiate a polynomial](https://www.codewars.com/kata/566584e3309db1b17d000027)
 - [Human readable duration format](https://www.codewars.com/kata/human-readable-duration-format)
+- [Lazy Init](https://www.codewars.com/kata/lazy-init)
 - [Magnet particules in boxes](https://www.codewars.com/kata/magnet-particules-in-boxes)
 - [Matrix Determinant](https://www.codewars.com/kata/matrix-determinant)
 - [Next bigger number with the same digits](https://www.codewars.com/kata/next-bigger-number-with-the-same-digits)
