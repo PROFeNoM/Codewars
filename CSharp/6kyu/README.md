@@ -7,4 +7,5 @@
 
 ## Kata
 
-- [Find the odd int](https://www.codewars.com/kata/find-the-odd-int)
+- [Find the odd int](https://www.codewars.com/kata/find-the-odd-int)  
+- [Persistent Bugger](www.codewars.com/kata/persistent-bugger)
