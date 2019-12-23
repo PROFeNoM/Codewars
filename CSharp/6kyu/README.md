@@ -8,4 +8,5 @@
 ## Kata
 
 - [Find the odd int](https://www.codewars.com/kata/find-the-odd-int)  
-- [Persistent Bugger](www.codewars.com/kata/persistent-bugger)
+- [Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5)  
+- [Persistent Bugger](www.codewars.com/kata/persistent-bugger)  
