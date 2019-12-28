@@ -8,7 +8,7 @@
 ## Kata
 
 - [Are they the "same"?](https://www.codewars.com/kata/are-they-the-same)  
-- [Array Diff}(https://www.codewars.com/kata/523f5d21c841566fde000009/)  
+- [Array Diff](https://www.codewars.com/kata/523f5d21c841566fde000009/)  
 - [Find the odd int](https://www.codewars.com/kata/find-the-odd-int)  
 - [Make the Deadfish swim](https://www.codewars.com/kata/make-the-deadfish-swim)  
 - [Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5)  
