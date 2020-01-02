@@ -11,4 +11,5 @@
 - [Find the first non-consecutive number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/)  
 - [Heads and Legs](https://www.codewars.com/kata/heads-and-legs)  
 - [Simple Fun #261: Whose Move](https://www.codewars.com/kata/simple-fun-number-261-whose-move/)  
+- [Take the Derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2/)  
 - [Triple Trouble](https://www.codewars.com/kata/5704aea738428f4d30000914/)  
