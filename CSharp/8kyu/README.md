@@ -13,3 +13,4 @@
 - [Simple Fun #261: Whose Move](https://www.codewars.com/kata/simple-fun-number-261-whose-move/)  
 - [Take the Derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2/)  
 - [Triple Trouble](https://www.codewars.com/kata/5704aea738428f4d30000914/)  
+- [Unicode Total](https://www.codewars.com/kata/572b6b2772a38bc1e700007a/)
