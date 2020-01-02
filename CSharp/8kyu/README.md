@@ -7,6 +7,7 @@
 
 ## Kata
 
+- [Cat years, Dog years](Cat years, Dog years)
 - [Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6/)
 - [Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96/)  
 - [Find the first non-consecutive number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/)  
