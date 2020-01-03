@@ -8,5 +8,6 @@
 ## Kata
 
 - [Disemvowel Trolls](https://www.codewars.com/kata/disemvowel-trolls/)  
+- [Is this a triangle?](https://www.codewars.com/kata/is-this-a-triangle/)
 - [Shortest Word](https://www.codewars.com/kata/shortest-word/)
 - [Temperature analysis I](https://www.codewars.com/kata/temperature-analysis-i)
