@@ -7,5 +7,6 @@
 
 ## Kata
 
-- [Disemvowel Trolls](https://www.codewars.com/kata/disemvowel-trolls/)
+- [Disemvowel Trolls](https://www.codewars.com/kata/disemvowel-trolls/)  
+- [Shortest Word](https://www.codewars.com/kata/shortest-word/)
 - [Temperature analysis I](https://www.codewars.com/kata/temperature-analysis-i)
