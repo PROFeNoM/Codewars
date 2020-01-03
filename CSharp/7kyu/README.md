@@ -7,6 +7,7 @@
 
 ## Kata
 
+- [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/)
 - [Disemvowel Trolls](https://www.codewars.com/kata/disemvowel-trolls/)  
 - [Is this a triangle?](https://www.codewars.com/kata/is-this-a-triangle/)
 - [Shortest Word](https://www.codewars.com/kata/shortest-word/)
