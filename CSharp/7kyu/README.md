@@ -16,4 +16,5 @@
 - [Simple Fun #51: Array Previous Less](https://www.codewars.com/kata/simple-fun-number-45-new-numeral-system)
 - [Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b/)
 - [Simple Fun #177: Rank Of Element](https://www.codewars.com/kata/58b8cc7e8e7121740700002d/)
+- [Sort an array by value and index](https://www.codewars.com/kata/58e0cb3634a3027180000040/)
 - [Temperature analysis I](https://www.codewars.com/kata/temperature-analysis-i)
