@@ -12,6 +12,7 @@
 - [Is this a triangle?](https://www.codewars.com/kata/is-this-a-triangle/)
 - [Shortest Word](https://www.codewars.com/kata/shortest-word/)
 - [Simple Fun #9: Array Packing](https://www.codewars.com/kata/588453ea56daa4af920000ca/)
+- [Simple Fun #41: Elections Winners](https://www.codewars.com/kata/simple-fun-number-41-elections-winners/)
 - [Simple Fun #45: New Numeral System](https://www.codewars.com/kata/simple-fun-number-45-new-numeral-system)
 - [Simple Fun #51: Array Previous Less](https://www.codewars.com/kata/simple-fun-number-51-array-previous-less)
 - [Simple Fun #138: Similarity](https://www.codewars.com/kata/simple-fun-number-138-similarity/)
