@@ -9,6 +9,7 @@
 
 - [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/)
 - [Disemvowel Trolls](https://www.codewars.com/kata/disemvowel-trolls/)  
+- [GA-DE-RY-PO-LU-KI cypher](https://www.codewars.com/kata/ga-de-ry-po-lu-ki-cypher/)
 - [Is this a triangle?](https://www.codewars.com/kata/is-this-a-triangle/)
 - [Shortest Word](https://www.codewars.com/kata/shortest-word/)
 - [Simple Fun #9: Array Packing](https://www.codewars.com/kata/588453ea56daa4af920000ca/)
