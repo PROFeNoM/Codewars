@@ -12,6 +12,7 @@
 - [Disemvowel Trolls](https://www.codewars.com/kata/disemvowel-trolls/)  
 - [GA-DE-RY-PO-LU-KI cypher](https://www.codewars.com/kata/ga-de-ry-po-lu-ki-cypher/)
 - [Is this a triangle?](https://www.codewars.com/kata/is-this-a-triangle/)
+- [Return the first M multiples of N](https://www.codewars.com/kata/593c9175933500f33400003e/)
 - [Shortest Word](https://www.codewars.com/kata/shortest-word/)
 - [Simple Fun #9: Array Packing](https://www.codewars.com/kata/588453ea56daa4af920000ca/)
 - [Simple Fun #41: Elections Winners](https://www.codewars.com/kata/simple-fun-number-41-elections-winners/)
