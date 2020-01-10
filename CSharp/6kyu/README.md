@@ -9,6 +9,7 @@
 
 - [Are they the "same"?](https://www.codewars.com/kata/are-they-the-same)  
 - [Array Diff](https://www.codewars.com/kata/523f5d21c841566fde000009/) 
+- [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196/)
 - [Consecutive strings](https://www.codewars.com/kata/consecutive-strings)  
 - [Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code)  
 - [Find the odd int](https://www.codewars.com/kata/find-the-odd-int)  
