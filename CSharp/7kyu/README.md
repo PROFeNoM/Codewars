@@ -25,3 +25,4 @@
 - [Sort an array by value and index](https://www.codewars.com/kata/58e0cb3634a3027180000040/)
 - [Sum of all the multiples of 3 or 5](https://www.codewars.com/kata/sum-of-all-the-multiples-of-3-or-5/)
 - [Temperature analysis I](https://www.codewars.com/kata/temperature-analysis-i)
+- [Turn any word into a beef taco](https://www.codewars.com/kata/59414b46d040b7b8f7000021/)
