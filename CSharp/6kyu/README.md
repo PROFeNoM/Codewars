@@ -11,6 +11,7 @@
 - [Array Diff](https://www.codewars.com/kata/523f5d21c841566fde000009/) 
 - [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196/)
 - [Consecutive strings](https://www.codewars.com/kata/consecutive-strings)  
+- [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a/)
 - [Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code)  
 - [Find the odd int](https://www.codewars.com/kata/find-the-odd-int)  
 - [Make the Deadfish swim](https://www.codewars.com/kata/make-the-deadfish-swim)  
