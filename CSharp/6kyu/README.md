@@ -16,5 +16,7 @@
 - [Find the odd int](https://www.codewars.com/kata/find-the-odd-int)  
 - [Make the Deadfish swim](https://www.codewars.com/kata/make-the-deadfish-swim)  
 - [Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5)  
-- [Take a Ten Minute Walk](https://www.codewars.com/kata/take-a-ten-minute-walk)  
 - [Persistent Bugger](www.codewars.com/kata/persistent-bugger)  
+- [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00/)
+- [Take a Ten Minute Walk](https://www.codewars.com/kata/take-a-ten-minute-walk)  
+
