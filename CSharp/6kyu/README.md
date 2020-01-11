@@ -13,6 +13,7 @@
 - [Consecutive strings](https://www.codewars.com/kata/consecutive-strings)  
 - [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a/)
 - [Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code)  
+- [Dubstep](https://www.codewars.com/kata/551dc350bf4e526099000ae5/)
 - [Find the odd int](https://www.codewars.com/kata/find-the-odd-int)  
 - [Make the Deadfish swim](https://www.codewars.com/kata/make-the-deadfish-swim)  
 - [Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5)  
