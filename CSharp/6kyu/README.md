@@ -19,6 +19,7 @@
 - [Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5)  
 - [Persistent Bugger](www.codewars.com/kata/persistent-bugger)  
 - [Simple Fun #29: Is MAC48 Address?](https://www.codewars.com/kata/5886faac54a7111c21000072/)
+- [Simple Fun #91: Unique Digit Products](https://www.codewars.com/kata/5897d94dd07028546c00009d/)
 - [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00/)
 - [Take a Ten Minute Walk](https://www.codewars.com/kata/take-a-ten-minute-walk)  
 
