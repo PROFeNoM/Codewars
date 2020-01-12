@@ -20,6 +20,7 @@
 - [Persistent Bugger](www.codewars.com/kata/persistent-bugger)  
 - [Simple Fun #29: Is MAC48 Address?](https://www.codewars.com/kata/5886faac54a7111c21000072/)
 - [Simple Fun #91: Unique Digit Products](https://www.codewars.com/kata/5897d94dd07028546c00009d/)
+- [Srot the inner ctonnet in dsnnieedcg oredr](https://www.codewars.com/kata/5898b4b71d298e51b600014b/)
 - [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00/)
 - [Take a Ten Minute Walk](https://www.codewars.com/kata/take-a-ten-minute-walk)  
 
