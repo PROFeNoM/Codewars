@@ -26,4 +26,4 @@
 - [Srot the inner ctonnet in dsnnieedcg oredr](https://www.codewars.com/kata/5898b4b71d298e51b600014b/)
 - [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00/)
 - [Take a Ten Minute Walk](https://www.codewars.com/kata/take-a-ten-minute-walk)  
-
+- [Valid Phone Number](https://www.codewars.com/kata/525f47c79f2f25a4db000025)
