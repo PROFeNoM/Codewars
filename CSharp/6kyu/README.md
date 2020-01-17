@@ -20,6 +20,7 @@
 - [Make the Deadfish swim](https://www.codewars.com/kata/make-the-deadfish-swim)  
 - [Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5)  
 - [Persistent Bugger](www.codewars.com/kata/persistent-bugger)  
+- [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/simple-encryption-number-1-alternating-split/)
 - [Simple Fun #29: Is MAC48 Address?](https://www.codewars.com/kata/5886faac54a7111c21000072/)
 - [Simple Fun #91: Unique Digit Products](https://www.codewars.com/kata/5897d94dd07028546c00009d/)
 - [Simple Fun #160: Cut The Ropes](https://www.codewars.com/kata/58ad388555bf4c80e800001e/)
