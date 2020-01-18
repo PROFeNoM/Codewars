@@ -12,6 +12,7 @@
 - [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196/)
 - [Consecutive strings](https://www.codewars.com/kata/consecutive-strings)  
 - [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a/)
+- [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/)
 - [Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code)  
 - [Dubstep](https://www.codewars.com/kata/551dc350bf4e526099000ae5/)
 - [Find the odd int](https://www.codewars.com/kata/find-the-odd-int) 
