@@ -18,6 +18,7 @@
 - [Logical Disjunctions](https://www.codewars.com/kata/55b019265ff4eeef8c000039/)
 - [Longest Palindrome](https://www.codewars.com/kata/54bb6f887e5a80180900046b/)
 - [Make the Deadfish swim](https://www.codewars.com/kata/make-the-deadfish-swim)  
+- [Mexican Wave](https://www.codewars.com/kata/mexican-wave/)
 - [Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5)  
 - [Persistent Bugger](www.codewars.com/kata/persistent-bugger)  
 - [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/simple-encryption-number-1-alternating-split/)
