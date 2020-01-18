@@ -29,6 +29,7 @@
 - [Simple Fun #170: Sum Groups](https://www.codewars.com/kata/58b3c2bd917a5caec0000017)
 - [Reducing by rules to get the result](https://www.codewars.com/kata/585ba6dff59b3cef3f000132/)
 - [Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/)
+- [Spelling Bee](https://www.codewars.com/kata/57d6b40fbfcdc5e9280002ee/)
 - [Srot the inner ctonnet in dsnnieedcg oredr](https://www.codewars.com/kata/5898b4b71d298e51b600014b/)
 - [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00/)
 - [Take a Ten Minute Walk](https://www.codewars.com/kata/take-a-ten-minute-walk)  
