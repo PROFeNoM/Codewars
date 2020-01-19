@@ -34,3 +34,4 @@
 - [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00/)
 - [Take a Ten Minute Walk](https://www.codewars.com/kata/take-a-ten-minute-walk)  
 - [Valid Phone Number](https://www.codewars.com/kata/525f47c79f2f25a4db000025)
+- [Write Number in Expanded Form](https://www.codewars.com/kata/write-number-in-expanded-form/)
