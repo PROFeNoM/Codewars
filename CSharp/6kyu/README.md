@@ -9,6 +9,7 @@
 
 - [Alphabet war - airstrike - letters massacre](https://www.codewars.com/kata/5938f5b606c3033f4700015a/)
 - [Are they the "same"?](https://www.codewars.com/kata/are-they-the-same)  
+- [Are we alternate?](https://www.codewars.com/kata/59325dc15dbb44b2440000af/)
 - [Array Diff](https://www.codewars.com/kata/523f5d21c841566fde000009/) 
 - [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196/)
 - [Consecutive strings](https://www.codewars.com/kata/consecutive-strings)  
