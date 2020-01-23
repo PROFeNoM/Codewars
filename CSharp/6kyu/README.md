@@ -20,6 +20,7 @@
 - [Dubstep](https://www.codewars.com/kata/551dc350bf4e526099000ae5/)
 - [Find the odd int](https://www.codewars.com/kata/find-the-odd-int) 
 - [Hollow array](https://www.codewars.com/kata/59b72376460387017e000062)
+- [Integer Depth](https://www.codewars.com/kata/59b401e24f98a813f9000026/)
 - [Logical Disjunctions](https://www.codewars.com/kata/55b019265ff4eeef8c000039/)
 - [Longest Palindrome](https://www.codewars.com/kata/54bb6f887e5a80180900046b/)
 - [Make the Deadfish swim](https://www.codewars.com/kata/make-the-deadfish-swim)  
