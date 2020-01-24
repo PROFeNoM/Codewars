@@ -26,6 +26,7 @@
 - [Make the Deadfish swim](https://www.codewars.com/kata/make-the-deadfish-swim)  
 - [Mexican Wave](https://www.codewars.com/kata/mexican-wave/)
 - [Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5)  
+- [N-centered Array](https://www.codewars.com/kata/59b06d83cf33953dbb000010)
 - [Persistent Bugger](www.codewars.com/kata/persistent-bugger)  
 - [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/simple-encryption-number-1-alternating-split/)
 - [Simple Fun #29: Is MAC48 Address?](https://www.codewars.com/kata/5886faac54a7111c21000072/)
