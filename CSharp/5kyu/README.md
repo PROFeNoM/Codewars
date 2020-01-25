@@ -7,4 +7,5 @@
 
 ## Kata
 
+- [1's, 0's and wildcards](https://www.codewars.com/kata/588f3e0dfa74475a2600002a)
 - [Moving Zeros To The End](https://www.codewars.com/kata/moving-zeros-to-the-end)  
