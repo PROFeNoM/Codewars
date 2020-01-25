@@ -11,6 +11,7 @@
 - [Are they the "same"?](https://www.codewars.com/kata/are-they-the-same)  
 - [Are we alternate?](https://www.codewars.com/kata/59325dc15dbb44b2440000af/)
 - [Array Diff](https://www.codewars.com/kata/523f5d21c841566fde000009/) 
+- [Bingo Card](https://www.codewars.com/kata/566d5e2e57d8fae53c00000c/)
 - [Build a pile of Cubes](https://www.codewars.com/kata/5592e3bd57b64d00f3000047/)
 - [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196/)
 - [Consecutive strings](https://www.codewars.com/kata/consecutive-strings)  
