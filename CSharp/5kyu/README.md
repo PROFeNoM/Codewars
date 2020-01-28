@@ -12,4 +12,5 @@
 - [First Variation on Caesar Cipher](https://www.codewars.com/kata/5508249a98b3234f420000fb/)
 - [Moving Zeros To The End](https://www.codewars.com/kata/moving-zeros-to-the-end)  
 - [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a/)
+- [Simple Fun #178: Faulty Odometer](https://www.codewars.com/kata/58b8d22560873d9068000085/)
 - [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/)
