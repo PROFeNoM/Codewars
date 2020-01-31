@@ -14,4 +14,5 @@
 - [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a/)
 - [Simple Fun #167: Spreadsheet](https://www.codewars.com/kata/58b38f24c723bf6b660000d8/)
 - [Simple Fun #178: Faulty Odometer](https://www.codewars.com/kata/58b8d22560873d9068000085/)
+- [Soundex](https://www.codewars.com/kata/587319230e9cf305bb000098/)
 - [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/)
