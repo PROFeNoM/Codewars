@@ -11,6 +11,7 @@
 - [Bit calculator](https://www.codewars.com/kata/52ece9de44751a64dc0001d9/)
 - [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/)
 - [First Variation on Caesar Cipher](https://www.codewars.com/kata/5508249a98b3234f420000fb/)
+- [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4/)
 - [Int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/)
 - [Moving Zeros To The End](https://www.codewars.com/kata/moving-zeros-to-the-end)  
 - [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a/)
