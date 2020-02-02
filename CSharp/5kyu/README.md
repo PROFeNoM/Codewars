@@ -14,6 +14,7 @@
 - [Int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/)
 - [Moving Zeros To The End](https://www.codewars.com/kata/moving-zeros-to-the-end)  
 - [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a/)
+- [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/)
 - [Simple Fun #167: Spreadsheet](https://www.codewars.com/kata/58b38f24c723bf6b660000d8/)
 - [Simple Fun #178: Faulty Odometer](https://www.codewars.com/kata/58b8d22560873d9068000085/)
 - [Soundex](https://www.codewars.com/kata/587319230e9cf305bb000098/)
