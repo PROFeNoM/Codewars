@@ -13,6 +13,7 @@
 - [First Variation on Caesar Cipher](https://www.codewars.com/kata/5508249a98b3234f420000fb/)
 - [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4/)
 - [Int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/)
+- [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015/)
 - [Moving Zeros To The End](https://www.codewars.com/kata/moving-zeros-to-the-end)  
 - [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a/)
 - [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/)
