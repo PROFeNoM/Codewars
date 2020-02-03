@@ -7,4 +7,5 @@
 
 ## Kata  
 
+- [Calculator](https://www.codewars.com/kata/5235c913397cbf2508000048)
 - [The Millionth Fibonacci Kata](https://www.codewars.com/kata/the-millionth-fibonacci-kata)
