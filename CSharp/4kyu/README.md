@@ -8,6 +8,7 @@
 ## Kata
 
 - [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21/)
+- [Codewars style ranking system](https://www.codewars.com/kata/51fda2d95d6efda45e00004e/)
 - [Connect Four](https://www.codewars.com/kata/56882731514ec3ec3d000009/)
 - [Human readable duration format](https://www.codewars.com/kata/human-readable-duration-format)
 - [Large Factorials](https://www.codewars.com/kata/557f6437bf8dcdd135000010/)
