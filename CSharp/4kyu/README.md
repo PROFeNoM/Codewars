@@ -8,6 +8,7 @@
 ## Kata
 
 - [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21/)
+- [Binary multiple of 3](https://www.codewars.com/kata/54de279df565808f8b00126a/)
 - [Codewars style ranking system](https://www.codewars.com/kata/51fda2d95d6efda45e00004e/)
 - [Connect Four](https://www.codewars.com/kata/56882731514ec3ec3d000009/)
 - [Counting Change Combinations](https://www.codewars.com/kata/541af676b589989aed0009e7/)
