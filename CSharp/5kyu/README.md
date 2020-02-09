@@ -8,6 +8,7 @@
 ## Kata
 
 - [1's, 0's and wildcards](https://www.codewars.com/kata/588f3e0dfa74475a2600002a)
+- [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e/)
 - [Bit calculator](https://www.codewars.com/kata/52ece9de44751a64dc0001d9/)
 - [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/)
 - [First Variation on Caesar Cipher](https://www.codewars.com/kata/5508249a98b3234f420000fb/)
