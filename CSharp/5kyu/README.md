@@ -24,5 +24,6 @@
 - [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062/)
 - [Simple Fun #167: Spreadsheet](https://www.codewars.com/kata/58b38f24c723bf6b660000d8/)
 - [Simple Fun #178: Faulty Odometer](https://www.codewars.com/kata/58b8d22560873d9068000085/)
+- [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/)
 - [Soundex](https://www.codewars.com/kata/587319230e9cf305bb000098/)
 - [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/)
