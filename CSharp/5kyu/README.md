@@ -27,3 +27,4 @@
 - [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/)
 - [Soundex](https://www.codewars.com/kata/587319230e9cf305bb000098/)
 - [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/)
+- [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/)
