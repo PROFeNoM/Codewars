@@ -19,6 +19,7 @@
 - [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/)
 - [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015/)
 - [Moving Zeros To The End](https://www.codewars.com/kata/moving-zeros-to-the-end)  
+- [Number of trailing zeros of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34/)
 - [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a/)
 - [Product of consecutive Fib numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a/)
 - [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/)
