@@ -12,6 +12,7 @@
 - [Basic Nico variation](https://www.codewars.com/kata/5968bb83c307f0bb86000015)
 - [Bit calculator](https://www.codewars.com/kata/52ece9de44751a64dc0001d9/)
 - [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/)
+- [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/)
 - [First Variation on Caesar Cipher](https://www.codewars.com/kata/5508249a98b3234f420000fb/)
 - [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4/)
 - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7/)
