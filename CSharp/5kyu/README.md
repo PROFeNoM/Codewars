@@ -36,4 +36,5 @@
 - [Soundex](https://www.codewars.com/kata/587319230e9cf305bb000098/)
 - [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/)
 - [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc/)
+- [What's a Perfect Power anyway?](https://www.codewars.com/kata/54d4c8b08776e4ad92000835/)
 - [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/)
