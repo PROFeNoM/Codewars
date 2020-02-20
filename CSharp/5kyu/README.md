@@ -21,6 +21,7 @@
 - [Josephus Survivor](https://www.codewars.com/kata/555624b601231dc7a400017a/)
 - [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/)
 - [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015/)
+- [Merged String Checker](https://www.codewars.com/kata/54c9fcad28ec4c6e680011aa/)
 - [Moving Zeros To The End](https://www.codewars.com/kata/moving-zeros-to-the-end)  
 - [Number of trailing zeros of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34/)
 - [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a/)
