@@ -37,6 +37,7 @@
 - [Simple Fun #178: Faulty Odometer](https://www.codewars.com/kata/58b8d22560873d9068000085/)
 - [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/)
 - [Soundex](https://www.codewars.com/kata/587319230e9cf305bb000098/)
+- [Square Matrix Multiplication](https://www.codewars.com/kata/5263a84ffcadb968b6000513/)
 - [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/)
 - [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc/)
 - [What's a Perfect Power anyway?](https://www.codewars.com/kata/54d4c8b08776e4ad92000835/)
