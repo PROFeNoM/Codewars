@@ -15,6 +15,7 @@
 - [Double Cola](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/)
 - [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/)
 - [First Variation on Caesar Cipher](https://www.codewars.com/kata/5508249a98b3234f420000fb/)
+- [Going to zero or to infinity?](https://www.codewars.com/kata/55a29405bc7d2efaff00007c/)
 - [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4/)
 - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7/)
 - [Int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/)
