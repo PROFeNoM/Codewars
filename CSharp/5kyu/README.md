@@ -20,6 +20,7 @@
 - [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4/)
 - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7/)
 - [Int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/)
+- [Integers: Recreation One](https://www.codewars.com/kata/55aa075506463dac6600010d/)
 - [Josephus Permutation](https://www.codewars.com/kata/5550d638a99ddb113e0000a2/)
 - [Josephus Survivor](https://www.codewars.com/kata/555624b601231dc7a400017a/)
 - [Lazy Repeater](https://www.codewars.com/kata/51fc3beb41ecc97ee20000c3/)
