@@ -22,6 +22,7 @@
 - [Int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/)
 - [Josephus Permutation](https://www.codewars.com/kata/5550d638a99ddb113e0000a2/)
 - [Josephus Survivor](https://www.codewars.com/kata/555624b601231dc7a400017a/)
+- [Lazy Repeater](https://www.codewars.com/kata/51fc3beb41ecc97ee20000c3/)
 - [Least Common Multiple](https://www.codewars.com/kata/5259acb16021e9d8a60010af/)
 - [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/)
 - [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015/)
