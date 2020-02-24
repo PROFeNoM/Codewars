@@ -38,6 +38,7 @@
 - [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716/)
 - [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062/)
 - [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/)
+- [Simple Fun #166: Best Match](https://www.codewars.com/kata/58b38256e51f1c2af0000081)
 - [Simple Fun #167: Spreadsheet](https://www.codewars.com/kata/58b38f24c723bf6b660000d8/)
 - [Simple Fun #178: Faulty Odometer](https://www.codewars.com/kata/58b8d22560873d9068000085/)
 - [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/)
