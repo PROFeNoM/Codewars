@@ -1,0 +1,15 @@
+namespace myjinxin
+{
+    using System;
+    using System.Linq;
+    
+    public class Kata
+    {
+        public int BestMatch(int[] goals1, int[] goals2){
+            return goals1.Zip(goals2, (a, b) => (a - b, b)).Select( (n, i) => (n, i))
+                    .OrderBy(e => e.Item1.Item1).ThenByDescending(e => e.Item1.Item2).First().Item2;
+          
+          
+        }
+    }
+}
