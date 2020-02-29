@@ -17,6 +17,7 @@
 - [Double Cola](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/)
 - [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/)
 - [First Variation on Caesar Cipher](https://www.codewars.com/kata/5508249a98b3234f420000fb/)
+- [Gap in Primes](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4/)
 - [Going to zero or to infinity?](https://www.codewars.com/kata/55a29405bc7d2efaff00007c/)
 - [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4/)
 - [How Many Numbers? II](https://www.codewars.com/kata/55f5efd21ad2b48895000040/)
