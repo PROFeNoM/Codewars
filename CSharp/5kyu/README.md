@@ -23,6 +23,7 @@
 - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7/)
 - [Int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/)
 - [Integers: Recreation One](https://www.codewars.com/kata/55aa075506463dac6600010d/)
+- [Interlaced Spiral Cipher](https://www.codewars.com/kata/5a24a35a837545ab04001614/)
 - [Is my friend cheating?](https://www.codewars.com/kata/5547cc7dcad755e480000004)
 - [Josephus Permutation](https://www.codewars.com/kata/5550d638a99ddb113e0000a2/)
 - [Josephus Survivor](https://www.codewars.com/kata/555624b601231dc7a400017a/)
