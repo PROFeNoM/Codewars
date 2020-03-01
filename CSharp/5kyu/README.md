@@ -49,6 +49,7 @@
 - [Simple Fun #167: Spreadsheet](https://www.codewars.com/kata/58b38f24c723bf6b660000d8/)
 - [Simple Fun #178: Faulty Odometer](https://www.codewars.com/kata/58b8d22560873d9068000085/)
 - [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/)
+- [Some Egyptian fractions](https://www.codewars.com/kata/54f8693ea58bce689100065f/)
 - [Soundex](https://www.codewars.com/kata/587319230e9cf305bb000098/)
 - [Square Matrix Multiplication](https://www.codewars.com/kata/5263a84ffcadb968b6000513/)
 - [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/)
