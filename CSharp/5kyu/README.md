@@ -26,6 +26,7 @@
 - [Integers: Recreation One](https://www.codewars.com/kata/55aa075506463dac6600010d/)
 - [Interlaced Spiral Cipher](https://www.codewars.com/kata/5a24a35a837545ab04001614/)
 - [Is my friend cheating?](https://www.codewars.com/kata/5547cc7dcad755e480000004)
+- [Iterative Rotation Cipher](https://www.codewars.com/kata/5a3357ae8058425bde002674/)
 - [Josephus Permutation](https://www.codewars.com/kata/5550d638a99ddb113e0000a2/)
 - [Josephus Survivor](https://www.codewars.com/kata/555624b601231dc7a400017a/)
 - [Lazy Repeater](https://www.codewars.com/kata/51fc3beb41ecc97ee20000c3/)
