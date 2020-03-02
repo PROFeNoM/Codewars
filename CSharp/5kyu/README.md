@@ -29,6 +29,7 @@
 - [Iterative Rotation Cipher](https://www.codewars.com/kata/5a3357ae8058425bde002674/)
 - [Josephus Permutation](https://www.codewars.com/kata/5550d638a99ddb113e0000a2/)
 - [Josephus Survivor](https://www.codewars.com/kata/555624b601231dc7a400017a/)
+- [K-Primes](https://www.codewars.com/kata/5726f813c8dcebf5ed000a6b/)
 - [Lazy Repeater](https://www.codewars.com/kata/51fc3beb41ecc97ee20000c3/)
 - [Least Common Multiple](https://www.codewars.com/kata/5259acb16021e9d8a60010af/)
 - [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/)
