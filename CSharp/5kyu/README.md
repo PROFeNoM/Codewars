@@ -48,6 +48,7 @@
 - [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062/)
 - [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048/)
 - [Scytale encoder/decoder (ancient Spartans cipher)](https://www.codewars.com/kata/57ca7e9b40e30297d800005c/)
+- [Sections](https://www.codewars.com/kata/5da1df6d8b0f6c0026e6d58d/)
 - [Simple Fun #166: Best Match](https://www.codewars.com/kata/58b38256e51f1c2af0000081)
 - [Simple Fun #167: Spreadsheet](https://www.codewars.com/kata/58b38f24c723bf6b660000d8/)
 - [Simple Fun #178: Faulty Odometer](https://www.codewars.com/kata/58b8d22560873d9068000085/)
