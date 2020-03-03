@@ -59,3 +59,4 @@
 - [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc/)
 - [What's a Perfect Power anyway?](https://www.codewars.com/kata/54d4c8b08776e4ad92000835/)
 - [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/)
+- [Which x for that sum?](https://www.codewars.com/kata/5b1cd19fcd206af728000056/)
