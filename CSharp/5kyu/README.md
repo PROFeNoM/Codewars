@@ -29,6 +29,7 @@
 - [Interlaced Spiral Cipher](https://www.codewars.com/kata/5a24a35a837545ab04001614/)
 - [Is my friend cheating?](https://www.codewars.com/kata/5547cc7dcad755e480000004)
 - [Iterative Rotation Cipher](https://www.codewars.com/kata/5a3357ae8058425bde002674/)
+- [John and Ann sign up for Codewars](https://www.codewars.com/kata/57591ef494aba64d14000526/)
 - [Josephus Permutation](https://www.codewars.com/kata/5550d638a99ddb113e0000a2/)
 - [Josephus Survivor](https://www.codewars.com/kata/555624b601231dc7a400017a/)
 - [K-Primes](https://www.codewars.com/kata/5726f813c8dcebf5ed000a6b/)
