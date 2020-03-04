@@ -16,6 +16,7 @@
 - [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/)
 - [Double Cola](https://www.codewars.com/kata/551dd1f424b7a4cdae0001f0/)
 - [Euler's method for a first-order ODE](https://www.codewars.com/kata/56347fcfd086de8f11000014/)
+- [Find the smallest](https://www.codewars.com/kata/573992c724fc289553000e95/)
 - [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/)
 - [First Variation on Caesar Cipher](https://www.codewars.com/kata/5508249a98b3234f420000fb/)
 - [Gap in Primes](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4/)
