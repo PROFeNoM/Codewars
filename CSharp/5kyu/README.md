@@ -52,6 +52,7 @@
 - [Scytale encoder/decoder (ancient Spartans cipher)](https://www.codewars.com/kata/57ca7e9b40e30297d800005c/)
 - [Second Variation on Caesar Cipher](https://www.codewars.com/kata/55084d3898b323f0aa000546/)
 - [Sections](https://www.codewars.com/kata/5da1df6d8b0f6c0026e6d58d/)
+- [Simple Fun #57: Runners Meetings](https://www.codewars.com/kata/5889a0706069af1cb9000176/)
 - [Simple Fun #166: Best Match](https://www.codewars.com/kata/58b38256e51f1c2af0000081)
 - [Simple Fun #167: Spreadsheet](https://www.codewars.com/kata/58b38f24c723bf6b660000d8/)
 - [Simple Fun #178: Faulty Odometer](https://www.codewars.com/kata/58b8d22560873d9068000085/)
