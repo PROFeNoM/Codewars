@@ -41,6 +41,7 @@
 - [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015/)
 - [Merged String Checker](https://www.codewars.com/kata/54c9fcad28ec4c6e680011aa/)
 - [Moving Zeros To The End](https://www.codewars.com/kata/moving-zeros-to-the-end)  
+- [Not very secure](https://www.codewars.com/kata/526dbd6c8c0eb53254000110/)
 - [Number of trailing zeros of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34/)
 - [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a/)
 - [Perimeter of squares in a rectangle](https://www.codewars.com/kata/559a28007caad2ac4e000083/)
