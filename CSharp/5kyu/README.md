@@ -45,6 +45,7 @@
 - [Number of trailing zeros of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34/)
 - [Packing your backpack](https://www.codewars.com/kata/5a51717fa7ca4d133f001fdf/)
 - [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a/)
+- [Paul Cipher & Kevin Arnold](https://www.codewars.com/kata/57c4ed873189a5bea00007e6/)
 - [Perimeter of squares in a rectangle](https://www.codewars.com/kata/559a28007caad2ac4e000083/)
 - [Pick Peaks](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7/)
 - [Product of consecutive Fib numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a/)
