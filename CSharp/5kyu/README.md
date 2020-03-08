@@ -8,6 +8,7 @@
 ## Kata
 
 - [1's, 0's and wildcards](https://www.codewars.com/kata/588f3e0dfa74475a2600002a)
+- [All that is open must be closed...](https://www.codewars.com/kata/55679d644c58e2df2a00009c/)
 - [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e/)
 - [Basic Nico variation](https://www.codewars.com/kata/5968bb83c307f0bb86000015)
 - [Bit calculator](https://www.codewars.com/kata/52ece9de44751a64dc0001d9/)
