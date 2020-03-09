@@ -25,6 +25,7 @@
 - [Going to zero or to infinity?](https://www.codewars.com/kata/55a29405bc7d2efaff00007c/)
 - [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4/)
 - [Hamster me](https://www.codewars.com/kata/595ddfe2fc339d8a7d000089/)
+- [Help your granny!](www.codewars.com/kata/5536a85b6ed4ee5a78000035/)
 - [How Many Numbers? II](https://www.codewars.com/kata/55f5efd21ad2b48895000040/)
 - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7/)
 - [Int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/)
