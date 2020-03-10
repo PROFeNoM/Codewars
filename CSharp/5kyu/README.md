@@ -58,6 +58,7 @@
 - [Scytale encoder/decoder (ancient Spartans cipher)](https://www.codewars.com/kata/57ca7e9b40e30297d800005c/)
 - [Second Variation on Caesar Cipher](https://www.codewars.com/kata/55084d3898b323f0aa000546/)
 - [Sections](https://www.codewars.com/kata/5da1df6d8b0f6c0026e6d58d/)
+- [Simple fraction to mixed number converter](https://www.codewars.com/kata/556b85b433fb5e899200003f/)
 - [Simple Fun #26: Weak Numbers](https://www.codewars.com/kata/5886dea04703f1712d000051/)
 - [Simple Fun #57: Runners Meetings](https://www.codewars.com/kata/5889a0706069af1cb9000176/)
 - [Simple Fun #166: Best Match](https://www.codewars.com/kata/58b38256e51f1c2af0000081)
