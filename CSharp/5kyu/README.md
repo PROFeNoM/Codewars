@@ -12,6 +12,7 @@
 - [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e/)
 - [Basic Nico variation](https://www.codewars.com/kata/5968bb83c307f0bb86000015)
 - [Bit calculator](https://www.codewars.com/kata/52ece9de44751a64dc0001d9/)
+- [Buddy Pairs](https://www.codewars.com/kata/59ccf051dcc4050f7800008f/)
 - [Common Denominators](https://www.codewars.com/kata/54d7660d2daf68c619000d95/)
 - [Convert PascalCase string into snake_case](https://www.codewars.com/kata/529b418d533b76924600085d/)
 - [Diophantine Equation](https://www.codewars.com/kata/554f76dca89983cc400000bb/)
