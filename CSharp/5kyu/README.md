@@ -69,6 +69,7 @@
 - [Some Egyptian fractions](https://www.codewars.com/kata/54f8693ea58bce689100065f/)
 - [Soundex](https://www.codewars.com/kata/587319230e9cf305bb000098/)
 - [Square Matrix Multiplication](https://www.codewars.com/kata/5263a84ffcadb968b6000513/)
+- [String -> N iterations -> String](https://www.codewars.com/kata/5ae43ed6252e666a6b0000a4/)
 - [The Clockwise Spiral](https://www.codewars.com/kata/536a155256eb459b8700077e/)
 - [The Hunger Games - Zoo Disaster!](https://www.codewars.com/kata/5902bc7aba39542b4a00003d/)
 - [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/)
