@@ -18,6 +18,7 @@
 - [Pyramid Slide Down](https://www.codewars.com/kata/551f23362ff852e2ab000037/)
 - [Select median](https://www.codewars.com/kata/5540f0a23a2716acb6000004/)
 - [Simple Fun #27: Rectangle Rotation](https://www.codewars.com/kata/5886e082a836a691340000c3/)
+- [Simple Fun #159: Middle Permutation](https://www.codewars.com/kata/58ad317d1541651a740000c5/)
 - [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/)
 - [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370/)
 - [Ten-Pin Bowling](https://www.codewars.com/kata/5531abe4855bcc8d1f00004c/)
