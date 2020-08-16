@@ -7,6 +7,7 @@
 
 ## Kata
 
+- [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053)
 - [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a)
 - [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 - [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
