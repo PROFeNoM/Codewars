@@ -8,6 +8,7 @@
 ## Kata
 
 - [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053)
+- [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047)
 - [Digital cypher](https://www.codewars.com/kata/592e830e043b99888600002d)
 - [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a)
 - [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
