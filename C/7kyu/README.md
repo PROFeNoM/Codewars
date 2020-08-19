@@ -12,6 +12,7 @@
 - [Digital cypher](https://www.codewars.com/kata/592e830e043b99888600002d)
 - [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a)
 - [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
+- [Maximum Product](https://www.codewars.com/kata/5a4138acf28b82aa43000117)
 - [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
 - [Reverse Words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
 - [Sorted? yes? no? how?](https://www.codewars.com/kata/580a4734d6df748060000045)
