@@ -10,6 +10,7 @@
 - [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053)
 - [Digital cypher](https://www.codewars.com/kata/592e830e043b99888600002d)
 - [Disarium Number (Special Numbers Series #3)](https://www.codewars.com/kata/5a53a17bfd56cb9c14000003)
+- [Discover The Original Price](https://www.codewars.com/kata/552564a82142d701f5001228)
 - [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a)
 - [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
 - [Maximum Product](https://www.codewars.com/kata/5a4138acf28b82aa43000117)
