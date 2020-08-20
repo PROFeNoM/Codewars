@@ -17,6 +17,7 @@
 - [Predict your age!](https://www.codewars.com/kata/5aff237c578a14752d0035ae/)
 - [Reverse Words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
 - [Sorted? yes? no? how?](https://www.codewars.com/kata/580a4734d6df748060000045)
+- [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 - [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
 - [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 - [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
