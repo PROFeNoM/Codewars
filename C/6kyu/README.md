@@ -11,3 +11,4 @@
 - [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
 - [PI approximation](https://www.codewars.com/kata/550527b108b86f700000073f)
 - [The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86)
+- [The Vowel Code](https://www.codewars.com/kata/53697be005f803751e0015aa)
