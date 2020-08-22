@@ -13,3 +13,4 @@
 - [Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f)
 - [The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86)
 - [The Vowel Code](https://www.codewars.com/kata/53697be005f803751e0015aa)
+- [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
