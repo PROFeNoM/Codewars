@@ -8,6 +8,7 @@
 ## Kata
 
 - [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047)
+- [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 - [Digital cypher vol 3 - missing key](https://www.codewars.com/kata/5930d8a4b8c2d9e11500002a)
 - [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
 - [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
