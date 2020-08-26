@@ -14,6 +14,7 @@
 - [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
 - [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 - [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f)
+- [Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
 - [PI approximation](https://www.codewars.com/kata/550527b108b86f700000073f)
 - [Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f)
 - [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
