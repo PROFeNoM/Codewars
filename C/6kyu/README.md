@@ -19,6 +19,7 @@
 - [PI approximation](https://www.codewars.com/kata/550527b108b86f700000073f)
 - [Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f)
 - [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
+- [Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
 - [The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86)
 - [The Vowel Code](https://www.codewars.com/kata/53697be005f803751e0015aa)
 - [Validate Credit Card Number](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2)
