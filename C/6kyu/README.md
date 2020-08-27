@@ -13,6 +13,7 @@
 - [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 - [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
 - [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
+- [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)
 - [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f)
 - [Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
 - [PI approximation](https://www.codewars.com/kata/550527b108b86f700000073f)
