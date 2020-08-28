@@ -7,4 +7,5 @@
 
 ## Kata
 
+- [Beeramid](https://www.codewars.com/kata/51e04f6b544cf3f6550000c1)
 - [Blackjack Scorer](https://www.codewars.com/kata/534ffb35edb1241eda0015fe)
