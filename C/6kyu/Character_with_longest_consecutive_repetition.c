@@ -1,5 +1,4 @@
 #include <stddef.h>
-#include <string.h>
 
 char longest_repetition(const char *chars, size_t *n) 
 {
