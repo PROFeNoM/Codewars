@@ -8,6 +8,7 @@
 ## Kata
 
 - [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047)
+- [Character with longest consecutive repetition](https://www.codewars.com/kata/586d6cefbcc21eed7a001155/)
 - [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 - [Digital cypher vol 3 - missing key](https://www.codewars.com/kata/5930d8a4b8c2d9e11500002a)
 - [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
