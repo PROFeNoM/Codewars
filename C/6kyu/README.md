@@ -26,5 +26,6 @@
 - [Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
 - [The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86)
 - [The Vowel Code](https://www.codewars.com/kata/53697be005f803751e0015aa)
+- [Two Joggers](https://www.codewars.com/kata/5274d9d3ebc3030802000165)
 - [Validate Credit Card Number](https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2)
 - [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
