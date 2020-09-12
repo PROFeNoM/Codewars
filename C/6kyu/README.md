@@ -19,6 +19,7 @@
 - [Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
 - [PI approximation](https://www.codewars.com/kata/550527b108b86f700000073f)
 - [Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f)
+- [Quick (n choose k) calculator](https://www.codewars.com/kata/55b22ef242ad87345c0000b2)
 - [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 - [Simple Fun #135: Missing Alphabets](https://www.codewars.com/kata/58a664bb586e986c940001d5)
 - [Sums of Parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
