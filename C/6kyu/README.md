@@ -16,6 +16,7 @@
 - [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 - [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)
 - [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f)
+- [Maze Runner](https://www.codewars.com/kata/58663693b359c4a6560001d6)
 - [Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
 - [PI approximation](https://www.codewars.com/kata/550527b108b86f700000073f)
 - [Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f)
