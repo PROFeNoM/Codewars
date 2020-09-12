@@ -2,14 +2,11 @@
 
 char *maze_runner(const int *maze, size_t n, const char *directions) 
 {
-    // Find start and finish positions
-    int position, end;
+    // Find start position
+    int position;
     for (int r = 0; r < (int) n; r++)
         for (int c = 0; c < (int) n; c++)
-        {
             if (maze[n * r + c] == 2) position = n * r + c;
-            if (maze[n * r + c] == 3) end = n * r + c;
-        }
     
     // Translate directions to its impact on array index
     int dir[] = {['N'] = - n, ['E'] = 1, ['W'] = - 1, ['S'] = n};
