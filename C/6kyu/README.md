@@ -14,6 +14,7 @@
 - [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 - [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
 - [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
+- [Fruit Machine](https://www.codewars.com/kata/590adadea658017d90000039)
 - [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)
 - [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f)
 - [Maze Runner](https://www.codewars.com/kata/58663693b359c4a6560001d6)
