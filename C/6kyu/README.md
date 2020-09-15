@@ -13,6 +13,7 @@
 - [Digital cypher vol 3 - missing key](https://www.codewars.com/kata/5930d8a4b8c2d9e11500002a)
 - [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 - [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
+- [Find the Mine!](https://www.codewars.com/kata/528d9adf0e03778b9e00067e/)
 - [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 - [Fruit Machine](https://www.codewars.com/kata/590adadea658017d90000039)
 - [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)
