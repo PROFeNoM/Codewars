@@ -20,6 +20,7 @@
 - [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f)
 - [Maze Runner](https://www.codewars.com/kata/58663693b359c4a6560001d6)
 - [Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
+- [Number Zoo Patrol](https://www.codewars.com/kata/5276c18121e20900c0000235)
 - [PI approximation](https://www.codewars.com/kata/550527b108b86f700000073f)
 - [Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f)
 - [Quick (n choose k) calculator](https://www.codewars.com/kata/55b22ef242ad87345c0000b2)
