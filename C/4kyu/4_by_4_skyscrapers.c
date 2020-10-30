@@ -55,62 +55,32 @@ void remove_possibility(struct cell *cell, int n)
     {
         for (int i = start; i < cell->possibility_count; i++)
             cell->possibilities[i] = cell->possibilities[i + 1];
+      
         cell->possibility_count--;
     }
 }
 
 int clue_index_on_board(int clue)
 {
-    switch (clue)
-    {
-        case 0:
-        case 1:
-        case 2:
-        case 3:
-            return clue;
-            break;
-        case 4:
-        case 5:
-        case 6:
-        case 7:
-            return clue - 1 + (clue % 4) * 3;
-            break;
-        case 8:
-        case 9:
-        case 10:
-        case 11:
-            return 23 - clue;
-            break;
-        case 12:
-        case 13:
-        case 14:
-        case 15:
-            return clue - (clue % 4) * 5;
-            break;
-        default:
-            return -1;
-            break;
-    }
+    if (clue < BOARD_SIZE) // Top clues
+        return clue;
+  
+    else if (clue < 2 * BOARD_SIZE) // Right clues
+        return clue - 1 + (clue % BOARD_SIZE) * (BOARD_SIZE - 1);
+  
+    else if (clue < 3 * BOARD_SIZE) // Bottom clues
+        return BOARD_SIZE * BOARD_SIZE - clue + 2 * BOARD_SIZE - 1;
+  
+    else // Left clues
+        return (4 * BOARD_SIZE - clue - 1) * BOARD_SIZE;
 }
 
 int is_clue_on_row(int clue)
 {
-    switch (clue)
-    {
-        case 4:
-        case 5:
-        case 6:
-        case 7:
-        case 12:
-        case 13:
-        case 14:
-        case 15:
-            return 1;
-            break;
-        default:
-            return 0;
-            break;
-    }
+    if ( (BOARD_SIZE <= clue && clue < 2 * BOARD_SIZE) ||
+         (3 * BOARD_SIZE <= clue) )
+        return 1;
+    return 0;
 }
 
 void edge_clue_initialization(struct board *board, int *clues)
@@ -124,14 +94,14 @@ void edge_clue_initialization(struct board *board, int *clues)
         {
             if (is_clue_on_row(i))
             {
-                if (i >= 12)
+                if (i >= 3 * BOARD_SIZE) // Left side clue
                 {
                     for (int d = 0, keep = 1; d < BOARD_SIZE; d++, keep++)
                         for (int rm = 1; rm <= BOARD_SIZE; rm++)
                             if (rm != keep)
                                 remove_possibility(&(board->cells[clue_index_on_board(i) + d]), rm);
                 }
-                else
+                else // Right side clue
                 {
                     for (int d = 0, keep = 1; -d < BOARD_SIZE; d--, keep++)
                         for (int rm = 1; rm <= BOARD_SIZE; rm++)
@@ -141,43 +111,53 @@ void edge_clue_initialization(struct board *board, int *clues)
             }
             else 
             {
-              if (i <= 3)
-              {
-                  for (int d = 0, keep = 1; d < BOARD_SIZE; d++, keep++)
-                      for (int rm = 1; rm <= BOARD_SIZE; rm++)
-                          if (rm != keep)
-                              remove_possibility(&(board->cells[clue_index_on_board(i) + BOARD_SIZE * d]), rm);
-              }
-              else
-                  for (int d = 0, keep = 1; d < BOARD_SIZE; d++, keep++)
-                      for (int rm = 1; rm <= BOARD_SIZE; rm++)
-                          if (rm != keep)
-                              remove_possibility(&(board->cells[clue_index_on_board(i) - BOARD_SIZE * d]), rm);
+                if (i < BOARD_SIZE) // Top side clue
+                {
+                    for (int d = 0, keep = 1; d < BOARD_SIZE; d++, keep++)
+                        for (int rm = 1; rm <= BOARD_SIZE; rm++)
+                            if (rm != keep)
+                                remove_possibility(&(board->cells[clue_index_on_board(i) + BOARD_SIZE * d]), rm);
+                }
+                else // Bot side clue
+                {
+                    for (int d = 0, keep = 1; d < BOARD_SIZE; d++, keep++)
+                        for (int rm = 1; rm <= BOARD_SIZE; rm++)
+                            if (rm != keep)
+                                remove_possibility(&(board->cells[clue_index_on_board(i) - BOARD_SIZE * d]), rm);
+                }
             }
         }
         else
         {
             if (is_clue_on_row(i))
             {
-                if (i >= 12)
+                if (i >= 3 * BOARD_SIZE) // Left side clue
+                {
                     for (int d = 0; d < BOARD_SIZE; d++)
                         for (int cross = BOARD_SIZE - clues[i] + 2 + d; cross <= BOARD_SIZE; cross++)
                             remove_possibility(&(board->cells[clue_index_on_board(i) + d]), cross);
-                else
+                }
+                else // Right side clue
+                {
                     for (int d = 0; -d < BOARD_SIZE; d--)
                         for (int cross = BOARD_SIZE - clues[i] + 2 - d; cross <= BOARD_SIZE; cross++)
                             remove_possibility(&(board->cells[clue_index_on_board(i) + d]), cross);
+                }
             }
             else
             {
-                if (i <= 3)
+                if (i < BOARD_SIZE) // Top side clue
+                {
                     for (int d = 0, keep = 1; d < BOARD_SIZE; d++, keep++)
                         for (int cross = BOARD_SIZE - clues[i] + 2 + d; cross <= BOARD_SIZE; cross++)
                             remove_possibility(&(board->cells[clue_index_on_board(i) + BOARD_SIZE * d]), cross);
-                else
+                }
+                else // Bottom side clue
+                {
                     for (int d = 0, keep = 1; d < BOARD_SIZE; d++, keep++)
                         for (int cross = BOARD_SIZE - clues[i] + 2 + d; cross <= BOARD_SIZE; cross++)
                             remove_possibility(&(board->cells[clue_index_on_board(i) - BOARD_SIZE * d]), cross);
+                }
             }
         }
     }
@@ -191,7 +171,7 @@ void advanced_strat(struct board *board, int *clues)
         {
             if (is_clue_on_row(i))
             {
-                if (i >= 12)
+                if (i >= 3 * BOARD_SIZE) // Left side clue
                 {
                     if (board->cells[clue_index_on_board(i) + BOARD_SIZE - 1].possibilities[0] == BOARD_SIZE) // Highest sc far opposite clue 2 => Second highest sc next to clue 2
                     {
@@ -217,11 +197,13 @@ void advanced_strat(struct board *board, int *clues)
                     }
                   
                     // 4x4: [2] > ? / ? / 4 / ? => Adjacent cell to clue 2 can't be 1
-                    if (board->cells[clue_index_on_board(i) + BOARD_SIZE - 2].possibilities[0] == 4)
+                    if (BOARD_SIZE == 4 &&
+                        board->cells[clue_index_on_board(i) + BOARD_SIZE - 2].possibilities[0] == 4)
                         remove_possibility(&(board->cells[clue_index_on_board(i)]), 1);
                   
                     // 4x4: [2] > 2 / ? / 4 / ? ==> 2 / 1 / 4 / 3
-                    if (board->cells[clue_index_on_board(i) + BOARD_SIZE - 2].possibilities[0] == 4 &&
+                    if (BOARD_SIZE == 4 &&
+                        board->cells[clue_index_on_board(i) + BOARD_SIZE - 2].possibilities[0] == 4 &&
                         board->cells[clue_index_on_board(i)].possibilities[0] == 2 &&
                         board->cells[clue_index_on_board(i)].possibility_count == 1)
                     {
@@ -230,7 +212,7 @@ void advanced_strat(struct board *board, int *clues)
                     }
                     
                 }
-                else
+                else // Right side clue
                 {
                     if (board->cells[clue_index_on_board(i) - BOARD_SIZE + 1].possibilities[0] == BOARD_SIZE) // Highest sc far opposite clue 2 => Second highest sc next to clue 2
                     {
@@ -256,11 +238,13 @@ void advanced_strat(struct board *board, int *clues)
                     }
                     
                     // 4x4: [2] > ? / ? / 4 / ? => Adjacent cell to clue 2 can't be 1
-                    if (board->cells[clue_index_on_board(i) - BOARD_SIZE + 2].possibilities[0] == 4)
+                    if (BOARD_SIZE == 4 &&
+                        board->cells[clue_index_on_board(i) - BOARD_SIZE + 2].possibilities[0] == 4)
                         remove_possibility(&(board->cells[clue_index_on_board(i)]), 1);
                     
                     // 4x4: [2] > 2 / ? / 4 / ? ==> 2 / 1 / 4 / 3
-                    if (board->cells[clue_index_on_board(i) - BOARD_SIZE + 2].possibilities[0] == 4 &&
+                    if (BOARD_SIZE == 4 &&
+                        board->cells[clue_index_on_board(i) - BOARD_SIZE + 2].possibilities[0] == 4 &&
                         board->cells[clue_index_on_board(i)].possibilities[0] == 2 &&
                         board->cells[clue_index_on_board(i)].possibility_count == 1)
                     {
@@ -271,7 +255,7 @@ void advanced_strat(struct board *board, int *clues)
             }
             else
             {
-                if (i <= 3)
+                if (i < BOARD_SIZE) // Left side clue
                 {
                     if (board->cells[clue_index_on_board(i) + BOARD_SIZE * (BOARD_SIZE - 1)].possibilities[0] == BOARD_SIZE) // Highest sc far opposite clue 2 => Second highest sc next to clue 2
                     {
@@ -294,11 +278,13 @@ void advanced_strat(struct board *board, int *clues)
                     }
                     
                     // 4x4: [2] > ? / ? / 4 / ? => Adjacent cell to clue 2 can't be 1
-                    if (board->cells[clue_index_on_board(i) + BOARD_SIZE * (BOARD_SIZE - 2)].possibilities[0] == 4)
+                    if (BOARD_SIZE == 4 &&
+                        board->cells[clue_index_on_board(i) + BOARD_SIZE * (BOARD_SIZE - 2)].possibilities[0] == 4)
                         remove_possibility(&(board->cells[clue_index_on_board(i)]), 1);
                     
                     // 4x4: [2] > 2 / ? / 4 / ? ==> 2 / 1 / 4 / 3
-                    if (board->cells[clue_index_on_board(i) + BOARD_SIZE * (BOARD_SIZE - 2)].possibilities[0] == 4 &&
+                    if (BOARD_SIZE == 4 &&
+                        board->cells[clue_index_on_board(i) + BOARD_SIZE * (BOARD_SIZE - 2)].possibilities[0] == 4 &&
                         board->cells[clue_index_on_board(i)].possibilities[0] == 2 &&
                         board->cells[clue_index_on_board(i)].possibility_count == 1)
                     {
@@ -307,7 +293,7 @@ void advanced_strat(struct board *board, int *clues)
                     }
                   
                 }
-                else
+                else // Right side clue
                 {
                     if (board->cells[clue_index_on_board(i) - BOARD_SIZE * (BOARD_SIZE - 1)].possibilities[0] == BOARD_SIZE) // Highest sc far opposite clue 2 => Second highest sc next to clue 2
                     {
@@ -330,11 +316,13 @@ void advanced_strat(struct board *board, int *clues)
                     }
                     
                     // 4x4: [2] > ? / ? / 4 / ? => Adjacent cell to clue 2 can't be 1
-                    if (board->cells[clue_index_on_board(i) - BOARD_SIZE * (BOARD_SIZE - 2)].possibilities[0] == 4)
+                    if (BOARD_SIZE == 4 &&
+                        board->cells[clue_index_on_board(i) - BOARD_SIZE * (BOARD_SIZE - 2)].possibilities[0] == 4)
                         remove_possibility(&(board->cells[clue_index_on_board(i)]), 1);
                   
                     // 4x4: [2] > 2 / ? / 4 / ? ==> 2 / 1 / 4 / 3
-                    if (board->cells[clue_index_on_board(i) - BOARD_SIZE * (BOARD_SIZE - 2)].possibilities[0] == 4 &&
+                    if (BOARD_SIZE == 4 &&
+                        board->cells[clue_index_on_board(i) - BOARD_SIZE * (BOARD_SIZE - 2)].possibilities[0] == 4 &&
                         board->cells[clue_index_on_board(i)].possibilities[0] == 2 &&
                         board->cells[clue_index_on_board(i)].possibility_count == 1)
                     {
@@ -345,7 +333,7 @@ void advanced_strat(struct board *board, int *clues)
             }
         }
       
-        else if (clues[i] == 3) // WARNING : Only 4x4
+        else if (clues[i] == 3 && BOARD_SIZE == 4) // WARNING : Only 4x4
         {
             // 3 / 4 / 12 / 12 < [3] => 3 / 4 / 2 / 1 < [3]
             if (is_clue_on_row(i))
@@ -450,19 +438,19 @@ void process_of_elimination(struct board *board, int *clues) // Value no longer 
               
                 int is_alone_row = 1, is_alone_col = 1;
               
-                int col = i % 4, row = i / 4;
+                int col = i % BOARD_SIZE, row = i / BOARD_SIZE;
                 for (int r = 0; r < BOARD_SIZE; r++)
                 {
-                    if (row * 4 + r != i)
-                        for (int j = 0; j < board->cells[row * 4 + r].possibility_count; j++)
-                            if (board->cells[row * 4 + r].possibilities[j] == board->cells[i].possibilities[p])
+                    if (row * BOARD_SIZE + r != i)
+                        for (int j = 0; j < board->cells[row * BOARD_SIZE + r].possibility_count; j++)
+                            if (board->cells[row * BOARD_SIZE + r].possibilities[j] == board->cells[i].possibilities[p])
                                 is_alone_row = 0;
                 }
                 for (int c = 0; c < BOARD_SIZE; c++)
                 {
-                    if (col + 4 * c != i)
-                        for (int j = 0; j < board->cells[col + 4 * c].possibility_count; j++)
-                            if (board->cells[col + 4 * c].possibilities[j] == board->cells[i].possibilities[p])
+                    if (col + BOARD_SIZE * c != i)
+                        for (int j = 0; j < board->cells[col + BOARD_SIZE * c].possibility_count; j++)
+                            if (board->cells[col + BOARD_SIZE * c].possibilities[j] == board->cells[i].possibilities[p])
                                 is_alone_col = 0;
                 }
               
@@ -491,22 +479,27 @@ void process_of_elimination(struct board *board, int *clues) // Value no longer 
   
 void print_board(struct board b, int *clues)
 {
-    printf("\t[%d]\t[%d]\t[%d]\t[%d]\n", 
-           clues[0], clues[1], clues[2], clues[3]);
-    for (int s = 0; s < b.cell_count; s +=4)
+    for (int i = 0; i < BOARD_SIZE; i++)
+        printf("\t[%d]", clues[i]);
+    printf("\n");
+    
+    for (int s = 0; s < b.cell_count; s += BOARD_SIZE)
     {
-        printf(" [%d]\t", clues[15 - s/4]);
-        for (int i = s; i < s + 4; i++)
+        printf(" [%d]\t", clues[4 * BOARD_SIZE - 1 - s / BOARD_SIZE]);
+        for (int i = s; i < s + BOARD_SIZE; i++)
         {
             for (int j = 0; j < b.cells[i].possibility_count; j++)
                 printf("%d", b.cells[i].possibilities[j]);
             printf("\t");
         }
-        printf("[%d]", clues[4 + s/4]);
+        printf("[%d]", clues[BOARD_SIZE + s / BOARD_SIZE]);
         printf("\n");
     }
-    printf("\t[%d]\t[%d]\t[%d]\t[%d]\n", 
-           clues[11], clues[10], clues[9], clues[8]);
+  
+    for (int i = 3 * BOARD_SIZE - 1; i >= 2 * BOARD_SIZE; i--)
+        printf("\t[%d]", clues[i]);
+    printf("\n");
+    
 }
 
 int is_completed(struct board board)
@@ -577,8 +570,8 @@ int** SolvePuzzle(int *clues)
         for (int i = 0; i < BOARD_SIZE; i++)
         {
             result[i] = calloc(BOARD_SIZE, sizeof(int));
-            for (int j = 0; j < 4; j++)
-                result[i][j] = skyscrapers.cells[4 * i + j].possibilities[0];
+            for (int j = 0; j < BOARD_SIZE; j++)
+                result[i][j] = skyscrapers.cells[BOARD_SIZE * i + j].possibilities[0];
         }
 
         return result;
