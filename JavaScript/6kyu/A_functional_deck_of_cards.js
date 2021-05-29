@@ -1,0 +1,1 @@
+let buildDeck = ["ace", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "jack", "queen", "king"].map((card) => ["hearts", "spades", "diamonds", "clubs"].map((format) => `${card} of ${format}`)).reduce((prev, curr) => prev.concat(curr), []);
