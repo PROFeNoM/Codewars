@@ -1,5 +1,5 @@
 # Codewars
-Python/C/C# kata done on codewars.
+C/C#/JavaScript/Python kata done on codewars.
 
 >Kata are real code challenges focused on improving skill and technique. Some train programming fundamentals, while others focus on complex problem solving. Each kata is crafted for and by the community.
 
