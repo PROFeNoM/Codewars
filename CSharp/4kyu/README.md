@@ -15,6 +15,8 @@
 - [Counting Change Combinations](https://www.codewars.com/kata/541af676b589989aed0009e7/)
 - [Human readable duration format](https://www.codewars.com/kata/human-readable-duration-format)
 - [Large Factorials](https://www.codewars.com/kata/557f6437bf8dcdd135000010/)
+- [Path Finder #1: can you reach the exit?](https://www.codewars.com/kata/5765870e190b1472ec0022a2)
+- [Path Finder #2: shortest path](https://www.codewars.com/kata/57658bfa28ed87ecfa00058a)
 - [Pyramid Slide Down](https://www.codewars.com/kata/551f23362ff852e2ab000037/)
 - [Select median](https://www.codewars.com/kata/5540f0a23a2716acb6000004/)
 - [Simple Fun #27: Rectangle Rotation](https://www.codewars.com/kata/5886e082a836a691340000c3/)
