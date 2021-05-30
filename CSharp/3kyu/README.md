@@ -9,5 +9,6 @@
 
 - [Calculator](https://www.codewars.com/kata/5235c913397cbf2508000048)
 - [Last digit of a huge number](https://www.codewars.com/kata/5518a860a73e708c0a000027/)
+- [Path Finder #3: the Alpinist](https://www.codewars.com/kata/576986639772456f6f00030c)
 - [Rail Fence Cipher: Encoding and Decoding](https://www.codewars.com/kata/58c5577d61aefcf3ff000081/)
 - [The Millionth Fibonacci Kata](https://www.codewars.com/kata/the-millionth-fibonacci-kata)
